@@ -1,6 +1,4 @@
-# han-solo082.github.io
-vampire diaries
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
